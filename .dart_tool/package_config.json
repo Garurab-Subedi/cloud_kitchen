@@ -26,6 +26,12 @@
       "languageVersion": "2.18"
     },
     {
+      "name": "badges",
+      "rootUri": "file:///Users/gaurabsubedi/.pub-cache/hosted/pub.dev/badges-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "boolean_selector",
       "rootUri": "file:///Users/gaurabsubedi/.pub-cache/hosted/pub.dev/boolean_selector-2.1.1",
       "packageUri": "lib/",
@@ -608,7 +614,7 @@
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2025-02-22T08:52:31.159697Z",
+  "generated": "2025-02-26T07:23:47.986307Z",
   "generator": "pub",
   "generatorVersion": "3.5.4",
   "flutterRoot": "file:///Users/gaurabsubedi/development/flutter",

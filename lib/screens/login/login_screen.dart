@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:khaja_pani/screens/forgetpassword/forget_password.dart';
-import 'package:khaja_pani/screens/home/home_screen.dart';
 import 'package:khaja_pani/screens/login/loginWidget/login_widgets.dart';
+import 'package:khaja_pani/screens/main/main_view.dart';
 import 'package:khaja_pani/utils%20/color.dart';
 import '../../components/my_button.dart';
 import '../../components/my_textfield.dart';
@@ -66,7 +66,7 @@ class LoginScreen extends StatelessWidget {
                     ),
                     MyButton(
                         title: GTexts.login,
-                        onPressed: () => Get.to(const HomeScreen()))
+                        onPressed: () => Get.to(() => const NavigationMenu()))
                   ],
                 ),
               ),

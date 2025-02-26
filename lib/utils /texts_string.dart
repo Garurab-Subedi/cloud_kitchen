@@ -68,6 +68,8 @@ class GTexts {
   static const String yourAccountCreatedSubTitle =
       "Welcome to your ultimate shopping Destination Your Account is Created";
 
+// appbar
+  static const String wellcome = "Welcome to Khaja Pani";
   // category
   static const String addCategory = "Add a new category";
   static const String categoryTitle = "Add Category title";
